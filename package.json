@@ -1,0 +1,22 @@
+{
+  "name": "neoriat.github.io",
+  "version": "1.0.0",
+  "description": "Neoriat's website",
+  "main": "./src/scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neoriat/neoriat.github.io.git"
+  },
+  "author": "Neoriat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neoriat/neoriat.github.io/issues"
+  },
+  "homepage": "https://github.com/Neoriat/neoriat.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  }
+}
