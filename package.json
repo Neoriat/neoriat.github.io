@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Neoriat/neoriat.github.io#readme",
   "devDependencies": {
-    "tailwindcss": "^3.4.16"
+    "tailwindcss": "^4.1.2"
   }
 }
