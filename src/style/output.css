@@ -184,6 +184,12 @@
   .mx-20 {
     margin-inline: calc(var(--spacing) * 20);
   }
+  .mx-30 {
+    margin-inline: calc(var(--spacing) * 30);
+  }
+  .mx-50 {
+    margin-inline: calc(var(--spacing) * 50);
+  }
   .mx-auto {
     margin-inline: auto;
   }
